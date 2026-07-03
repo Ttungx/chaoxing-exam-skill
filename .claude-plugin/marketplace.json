@@ -1,0 +1,44 @@
+{
+  "name": "ttungx-plugins",
+  "description": "QoderWork / Claude Code plugins by Ttungx",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Ttungx"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "chaoxing-exam",
+      "displayName": "超星学习通自动答题",
+      "description": "Automate answering exams on Chaoxing (超星学习通) platform. Handles exam preview, per-question, and practice modes. Suitable for exams without anti-cheating measures (e.g. 通识课/水课).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ttungx"
+      },
+      "homepage": "https://github.com/Ttungx/chaoxing-exam-skill",
+      "repository": "https://github.com/Ttungx/chaoxing-exam-skill",
+      "license": "MIT",
+      "keywords": [
+        "chaoxing",
+        "超星",
+        "学习通",
+        "exam",
+        "考试",
+        "自动答题"
+      ],
+      "category": "education",
+      "tags": [
+        "automation",
+        "browser",
+        "education",
+        "chaoxing"
+      ],
+      "source": "./",
+      "skills": [
+        "./SKILL.md"
+      ]
+    }
+  ]
+}
