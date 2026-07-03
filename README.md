@@ -1,6 +1,6 @@
 # chaoxing-exam-skill
 
-超星学习通考试自动答题 Skill
+超星学习通web端考试自动答题 Skill
 
 ## 适用场景
 
